@@ -1,6 +1,6 @@
 - Hi, I’m @nebvx and I am currently a university student in computer science. :) 
 - First, main and basically only language I use is c++, just for the reason that I wanna be good in that before I expand.
-- Advent of code is a little project, that I do a little bit too late tbh, but wanna code for fun again and for that it's great.
+- Advent of code is a little project of mine to code for fun and challange myself a little bit.
 
 <!---
 nebvx/nebvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
