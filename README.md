@@ -1,5 +1,5 @@
 - Hi, I’m @nebvx and I am currently a university student in computer science. :) 
-- First, main and basically only language I use is c++, just for the reason that I wanna be good in that before I expand.
+- c++ & java
 
 
 <!---
