@@ -1,5 +1,5 @@
 - Hi, I’m @nebvx and I am currently a university student in computer science. :) 
-- c++ & java
+- mostly c++ & a little bit of java
 
 
 <!---
