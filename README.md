@@ -1,5 +1,5 @@
 - Hi, I’m @nebvx and I am currently a university student in computer science. :) 
-- I am on focusing on c++, a little bit of java & GDScript (Godot) right now.
+- I am focusing on the languages c++, a little bit of java & GDScript (Godot) right now.
 
   
 ![Codewars](https://github.r2v.ch/codewars?user=nebuthefirst&stroke=blue)
