@@ -3,6 +3,8 @@
     - C++
     - a little bit of java
     - GDScript for Godot
+ 
+    - mew
 
   
 ![Codewars](https://github.r2v.ch/codewars?user=nebuthefirst&stroke=blue)
