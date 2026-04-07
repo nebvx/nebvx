@@ -1,7 +1,7 @@
 # Hey, I'm nebvx!
 
 - 👾 Currently studying computer science at an university
-- 💻 Mostly C++, but also dabbling in Java & GDScript
+- 💻 Mostly C++ and Java, but also minimal GDScript, Javascript & C#
 - ✨ Sometimes I solve Codewars katas for fun:
 
 ![Codewars](https://github.r2v.ch/codewars?user=nebuthefirst&stroke=blue)
